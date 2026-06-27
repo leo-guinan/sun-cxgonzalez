@@ -1,0 +1,382 @@
+{
+  "id": "sun-cxgonzalez",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@cxgonzalez Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_a36f88d05410",
+    "display_name": "cxgonzalez",
+    "user_id": "@cxgonzalez",
+    "description": "Community Archive-derived proof-of-search sun for @cxgonzalez.",
+    "document_count": 35629,
+    "word_count": 519940,
+    "active_days": 1706,
+    "emissions": [
+      "Think",
+      "Don",
+      "Tjdriii",
+      "Good",
+      "Which",
+      "Time"
+    ],
+    "generated_at": "2026-06-27T15:47:01.916663+00:00",
+    "color": "#f59e0b",
+    "mass": 13.161
+  },
+  "planets": [
+    {
+      "id": "planet_15381e64c9fd",
+      "name": "Think",
+      "summary": "Archive cluster around think: 30289 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "nosilverv",
+        "yeah",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a6462ceade58",
+          "title": "Think receipt from 2022-09-01",
+          "excerpt": "just met a 21 year old italian student who doesn’t know how to use a computer and never takes his phone out of the house. happiest guy i’ve ever seen",
+          "source_document_id": "1565481972134281217",
+          "timestamp": "2022-09-01T23:29:22+00:00",
+          "url": "https://x.com/cxgonzalez/status/1565481972134281217",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, nosilverv, yeah."
+        },
+        {
+          "id": "art_efb6919466c9",
+          "title": "Think receipt from 2024-10-11",
+          "excerpt": "all the snide tweets about “congrats you made a bus” failing to ask why nobody wants to ride a bus https://t.co/CavSy2Szxa",
+          "source_document_id": "1844686696232710281",
+          "timestamp": "2024-10-11T10:29:15+00:00",
+          "url": "https://x.com/cxgonzalez/status/1844686696232710281",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, nosilverv, yeah."
+        },
+        {
+          "id": "art_f87a4626426c",
+          "title": "Think receipt from 2022-08-14",
+          "excerpt": "girl i’m dating had a happy childhood, has great relationships with all her family, is easy going, hates drama, is always positive and optimistic-\n\nthese are uncharted waters",
+          "source_document_id": "1558606996487675905",
+          "timestamp": "2022-08-14T00:10:40+00:00",
+          "url": "https://x.com/cxgonzalez/status/1558606996487675905",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, nosilverv, yeah."
+        },
+        {
+          "id": "art_d0936db83cff",
+          "title": "Think receipt from 2022-10-26",
+          "excerpt": "to rent an apartment in spain you need a spanish bank account, to open a spanish bank account you need to register as a resident and to register as a resident you need an apartment 🙂",
+          "source_document_id": "1585191601189826560",
+          "timestamp": "2022-10-26T08:48:23+00:00",
+          "url": "https://x.com/cxgonzalez/status/1585191601189826560",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, nosilverv, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_37f0b25bb31a",
+      "proof_score": 1,
+      "mass": 38.79,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_395215a557a3",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1244 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "know",
+        "really",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_797447a47bd5",
+          "title": "Don receipt from 2022-05-23",
+          "excerpt": "I’M SICK OF THESE GOD DAMN EUROPEAN BREAKFASTS. I’M SICK OF THESE CROISSANTS. NO I DON’T WANT BREAD WITH CHOCOLATE AGAIN THIS MORNING. ONE SLICE OF HAM IS NOT PROTEIN. I’M SICK OF IT",
+          "source_document_id": "1528649009010814976",
+          "timestamp": "2022-05-23T08:08:19+00:00",
+          "url": "https://x.com/cxgonzalez/status/1528649009010814976",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, really."
+        },
+        {
+          "id": "art_ccee549a477e",
+          "title": "Don receipt from 2023-12-26",
+          "excerpt": "what a lot of men using dating apps don't appreciate is how important a couple's story is for women",
+          "source_document_id": "1739490189372752149",
+          "timestamp": "2023-12-26T03:35:53+00:00",
+          "url": "https://x.com/cxgonzalez/status/1739490189372752149",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, really."
+        },
+        {
+          "id": "art_bccb90efc839",
+          "title": "Don receipt from 2022-04-17",
+          "excerpt": "i like modern architecture and i’m sick of pretending like i don’t https://t.co/fmru6kxDwD",
+          "source_document_id": "1515653115441303553",
+          "timestamp": "2022-04-17T11:27:16+00:00",
+          "url": "https://x.com/cxgonzalez/status/1515653115441303553",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, really."
+        },
+        {
+          "id": "art_f4b397bf7362",
+          "title": "Don receipt from 2022-07-01",
+          "excerpt": "if you’re so smart why don’t you dress well",
+          "source_document_id": "1542834455353741313",
+          "timestamp": "2022-07-01T11:36:13+00:00",
+          "url": "https://x.com/cxgonzalez/status/1542834455353741313",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f15f2acb0af9",
+      "proof_score": 1,
+      "mass": 30.633,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0e0c39ff99f8",
+      "name": "Tjdriii",
+      "summary": "Archive cluster around tjdriii: 1401 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "tjdriii",
+        "tripp",
+        "ashtearlucca",
+        "yeah",
+        "duderichy"
+      ],
+      "artifacts": [
+        {
+          "id": "art_399dba4fd555",
+          "title": "Tjdriii receipt from 2022-06-16",
+          "excerpt": "@Tjdriii https://t.co/nxVrYYZF8v",
+          "source_document_id": "1537477584401092608",
+          "timestamp": "2022-06-16T16:49:55+00:00",
+          "url": "https://x.com/cxgonzalez/status/1537477584401092608",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tjdriii, tripp, ashtearlucca, yeah."
+        },
+        {
+          "id": "art_403b9dcc6c5d",
+          "title": "Tjdriii receipt from 2022-06-13",
+          "excerpt": "@Tjdriii: “wait i thought @powerbottomdad1 was asian” https://t.co/PmL4IVM6Uz",
+          "source_document_id": "1536145848463241216",
+          "timestamp": "2022-06-13T00:38:05+00:00",
+          "url": "https://x.com/cxgonzalez/status/1536145848463241216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tjdriii, tripp, ashtearlucca, yeah."
+        },
+        {
+          "id": "art_026c80616a3c",
+          "title": "Tjdriii receipt from 2023-05-30",
+          "excerpt": "i miss @tjdriii sm i just want him back https://t.co/y159JzGd15",
+          "source_document_id": "1663445052104769536",
+          "timestamp": "2023-05-30T07:19:40+00:00",
+          "url": "https://x.com/cxgonzalez/status/1663445052104769536",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tjdriii, tripp, ashtearlucca, yeah."
+        },
+        {
+          "id": "art_039491b5a083",
+          "title": "Tjdriii receipt from 2022-03-25",
+          "excerpt": "@Tjdriii *slapping myself violently in the mirror* abundance mindset christian abundance mindset",
+          "source_document_id": "1507156987389296646",
+          "timestamp": "2022-03-25T00:46:42+00:00",
+          "url": "https://x.com/cxgonzalez/status/1507156987389296646",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tjdriii, tripp, ashtearlucca, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bcd676491c1f",
+      "proof_score": 1,
+      "mass": 29.045,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_10c1e2cd5665",
+      "name": "Good",
+      "summary": "Archive cluster around good: 1055 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "time",
+        "which",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_dec700288b46",
+          "title": "Good receipt from 2024-10-12",
+          "excerpt": "gonna start making “did they come from a good family” a dealbreaker for me now",
+          "source_document_id": "1845030392283136252",
+          "timestamp": "2024-10-12T09:14:59+00:00",
+          "url": "https://x.com/cxgonzalez/status/1845030392283136252",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, time, which."
+        },
+        {
+          "id": "art_be10c4dde378",
+          "title": "Good receipt from 2024-01-29",
+          "excerpt": "what's the best strategy for finding people who are intellectually curious, physically and mentally healthy, fun to go out with, good professionals, and with good character?",
+          "source_document_id": "1752026813654606280",
+          "timestamp": "2024-01-29T17:51:58+00:00",
+          "url": "https://x.com/cxgonzalez/status/1752026813654606280",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, time, which."
+        },
+        {
+          "id": "art_3dba3be3d3f3",
+          "title": "Good receipt from 2022-06-27",
+          "excerpt": "i’m confused. is adderall good or bad?",
+          "source_document_id": "1541376655440084992",
+          "timestamp": "2022-06-27T11:03:26+00:00",
+          "url": "https://x.com/cxgonzalez/status/1541376655440084992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, time, which."
+        },
+        {
+          "id": "art_3b0fad49b7c3",
+          "title": "Good receipt from 2024-01-02",
+          "excerpt": "what i’ve learned from my last 3 relationships:\n\n1) novelty isn’t enough, i need someone with a head\n2) intelligence isn’t enough, i need someone with good mental health\n3) happiness isn’t enough, i need someone curious",
+          "source_document_id": "1742292969862939135",
+          "timestamp": "2024-01-02T21:13:08+00:00",
+          "url": "https://x.com/cxgonzalez/status/1742292969862939135",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, time, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_da7ad8a1b8fe",
+      "proof_score": 1,
+      "mass": 30.108,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_31a44da41f9d",
+      "name": "Which",
+      "summary": "Archive cluster around which: 840 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "only",
+        "most",
+        "moral",
+        "those"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3c387d710d8c",
+          "title": "Which receipt from 2024-07-02",
+          "excerpt": "which pronoun do you use in your internal monologue?",
+          "source_document_id": "1808188550065566186",
+          "timestamp": "2024-07-02T17:18:39+00:00",
+          "url": "https://x.com/cxgonzalez/status/1808188550065566186",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, only, most, moral."
+        },
+        {
+          "id": "art_958d9cd42c0f",
+          "title": "Which receipt from 2024-01-16",
+          "excerpt": "socials:\n-coworking\n-coliving\n-social clubs\n-MeetUp\n\nthe first two no body talks about. these places often have a Social Club built in which hosts public events",
+          "source_document_id": "1747293300787118165",
+          "timestamp": "2024-01-16T16:22:40+00:00",
+          "url": "https://x.com/cxgonzalez/status/1747293300787118165",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, only, most, moral."
+        },
+        {
+          "id": "art_4a4a4fc6fdda",
+          "title": "Which receipt from 2022-10-19",
+          "excerpt": "which accounts give a slow trip of interesting ideas couched in shit posting?",
+          "source_document_id": "1582804350145286145",
+          "timestamp": "2022-10-19T18:42:18+00:00",
+          "url": "https://x.com/cxgonzalez/status/1582804350145286145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, only, most, moral."
+        },
+        {
+          "id": "art_10447a764be2",
+          "title": "Which receipt from 2022-06-07",
+          "excerpt": "which post rats actually flesh out their unique philosophical insights?",
+          "source_document_id": "1534307022421823490",
+          "timestamp": "2022-06-07T22:51:14+00:00",
+          "url": "https://x.com/cxgonzalez/status/1534307022421823490",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, only, most, moral."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bb01fac13813",
+      "proof_score": 1,
+      "mass": 30.13,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_9b46e3e63b32",
+      "name": "Time",
+      "summary": "Archive cluster around time: 800 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "only",
+        "over",
+        "same"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c512e58bc2c1",
+          "title": "Time receipt from 2024-04-05",
+          "excerpt": "how do you deal with the guilt of not doing something productive all the time?",
+          "source_document_id": "1776353308749205574",
+          "timestamp": "2024-04-05T20:56:46+00:00",
+          "url": "https://x.com/cxgonzalez/status/1776353308749205574",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, only, over."
+        },
+        {
+          "id": "art_9c90687d8131",
+          "title": "Time receipt from 2022-06-30",
+          "excerpt": "it’s rare but every so often i’ll met someone and in a very short time know with 100% certainty that they’re one of my people. i’ve never been wrong about this before",
+          "source_document_id": "1542569266574229504",
+          "timestamp": "2022-06-30T18:02:27+00:00",
+          "url": "https://x.com/cxgonzalez/status/1542569266574229504",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, only, over."
+        },
+        {
+          "id": "art_c9769d24ecc5",
+          "title": "Time receipt from 2024-03-13",
+          "excerpt": "i can see my roommates spiraling in real time but i’m not close enough with them to really help them without it being weird",
+          "source_document_id": "1767935972178624778",
+          "timestamp": "2024-03-13T15:29:17+00:00",
+          "url": "https://x.com/cxgonzalez/status/1767935972178624778",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, only, over."
+        },
+        {
+          "id": "art_be53b6a65538",
+          "title": "Time receipt from 2022-09-24",
+          "excerpt": "what are common mistakes people make the first time they fall in love?",
+          "source_document_id": "1573721861254520832",
+          "timestamp": "2022-09-24T17:11:44+00:00",
+          "url": "https://x.com/cxgonzalez/status/1573721861254520832",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, only, over."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cb837fc1768b",
+      "proof_score": 1,
+      "mass": 29.451,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
